@@ -11,6 +11,8 @@ The project produced a work with a simple direction of movement and rotation.
 
 The design was printed using 3D printing after using 123D_Design.
 
-![Alt Text](./image/tool_desing.png)
+![default](image/tool_design.png)
 
 The battery used a lithium battery and The control was operated by a phone with Bluetooth.
+
+![default](image/robot.jpg)
