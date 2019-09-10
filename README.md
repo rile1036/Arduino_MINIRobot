@@ -16,4 +16,4 @@ The design was printed using 3D printing after using 123D_Design.
 
 The battery used a lithium battery and The control was operated by a phone with Bluetooth.
 
-![default](image/robot.png)
+![default](image/robot.PNG)
